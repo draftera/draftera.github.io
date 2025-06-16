@@ -1,0 +1,14 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+// Disable nav animation
+#primary-nav.drop {
+  animation: none !important;
+  -webkit-animation: none !important;
+}
