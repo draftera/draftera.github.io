@@ -79,13 +79,11 @@ author:
   picture:
   email:
   twitter:
-  links:
-    - title:
-      url:
-      icon:
+  links: false
+   
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Donate!
+    URL: "https://paypal.me/leobre1024"
+    icon: fa fa-paypal
