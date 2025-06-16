@@ -5,7 +5,7 @@ title: "ManeEfesto"
 description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
 URL: "https://https://maneefesto.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "logo.png"
 date_format: "%d %B %Y"
 read_time: true
 words_per_minute: 200
@@ -86,4 +86,4 @@ author:
 footer_links:
   - title: Donate!
     URL: https://paypal.me/leobre1024
-    icon: fas fa-rss-square
+    icon: fab fa-paypal
