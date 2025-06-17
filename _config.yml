@@ -3,7 +3,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: en-US
 title: "drafTera"
 description: "Dedicated to making things that matter."
-skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/ada.scss"
 baseurl: # the subpath of your site, e.g. "/blog"
 URL: "https://draftory.github.io"
 logo: "logo.png"
