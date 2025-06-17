@@ -1,7 +1,7 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 locale: en-US
-title: "draftory"
+title: "drafTera"
 description: "Dedicated to making things that matter."
 baseurl: # the subpath of your site, e.g. "/blog"
 URL: "https://draftory.github.io"
