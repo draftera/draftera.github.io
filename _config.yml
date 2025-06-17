@@ -76,7 +76,7 @@ defaults:
 # Site Author
 author:
   name: Leo
-  picture:
+  picture: logo.png
   email:
   twitter:
   links: false
