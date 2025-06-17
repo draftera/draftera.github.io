@@ -2,9 +2,9 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 locale: en-US
 title: "ManeEfesto"
-description: "It really is the best."
+description: "Dedicated to making things that matter."
 baseurl: # the subpath of your site, e.g. "/blog"
-URL: "https://https://maneefesto.github.io"
+URL: "https://maneefesto.github.io"
 logo: "logo.png"
 date_format: "%d %B %Y"
 read_time: true
