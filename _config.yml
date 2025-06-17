@@ -1,10 +1,10 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 locale: en-US
-title: "ManeEfesto"
+title: "draftory"
 description: "Dedicated to making things that matter."
 baseurl: # the subpath of your site, e.g. "/blog"
-URL: "https://maneefesto.github.io"
+URL: "https://draftory.github.io"
 logo: "logo.png"
 date_format: "%d %B %Y"
 read_time: true
