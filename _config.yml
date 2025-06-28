@@ -92,4 +92,4 @@ footer_links:
 
   - title: Calendar
     url: https://calendar.google.com/calendar/ical/8f21dd729e9d0dd6f2c1032adba0c0feeedcbdac2fe1df6f990e0634631625e0%40group.calendar.google.com/public/basic.ics
-    icon: fa-solid fa-bell
+    icon: fas fa-bell
