@@ -91,5 +91,5 @@ footer_links:
     icon: fab fa-paypal
 
   - title: Calendar
-    url: https://calendar.google.com/calendar/ical/8f21dd729e9d0dd6f2c1032adba0c0feeedcbdac2fe1df6f990e0634631625e0%40group.calendar.google.com/public/basic.ics
+    url: https://calendar.google.com/calendar/u/1?cid=OGYyMWRkNzI5ZTlkMGRkNmYyYzEwMzJhZGJhMGMwZmVlZWRjYmRhYzJmZTFkZjZmOTkwZTA2MzQ2MzE2MjVlMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
     icon: fas fa-bell
